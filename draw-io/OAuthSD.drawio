@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T06:00:58.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="dNTbZznyYzEpXxbnlzW7" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T06:26:10.198Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4QG1igDF5g4WfCes_uZX" version="20.5.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="3420" dy="1488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2538" dy="1420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,6 +134,9 @@
           <mxGeometry x="0.0325" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xtP72wtRn8Dwq6atNYCI-4" value="&lt;ul style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 10px; color: rgb(46, 52, 59); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 20px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;&lt;b&gt;The ‘cloud’ icon represents the App&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;&lt;b&gt;The ‘www’ icon represents the User/Browser&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;&lt;b&gt;The ‘safe’ icon represents the OAuth Server&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;&lt;b&gt;‘N.A.’ means ‘not applicable’, i.e., the step is not required in the grant type flow&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=42;" vertex="1" parent="1">
+          <mxGeometry x="525.36" y="1670" width="620" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
