@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T06:49:26.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="3Yrd_fnoAS77ksUgIMr7" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T23:32:14.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="m8-nxZB3M5YUli4dkPUp" version="20.5.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="2307" dy="1291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="740" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="User" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="User Agent" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;size=20;" parent="1" vertex="1">
           <mxGeometry x="300" y="190" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="c5NPfFB2k1OfmSP-pEoB-5" value="Resource &lt;br&gt;Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
@@ -135,7 +135,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xtP72wtRn8Dwq6atNYCI-4" value="&lt;ul style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 10px; color: rgb(46, 52, 59); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 20px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;&lt;b&gt;The ‘cloud’ icon represents the App&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;&lt;b&gt;The ‘www’ icon represents the User/Browser&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;&lt;b&gt;The ‘safe’ icon represents the OAuth Server&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;&lt;b&gt;‘N.A.’ means ‘not applicable’, i.e., the step is not required in the grant type flow&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=42;" vertex="1" parent="1">
+        <mxCell id="xtP72wtRn8Dwq6atNYCI-4" value="&lt;ul style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 10px; color: rgb(46, 52, 59); font-family: &amp;quot;Open Sans&amp;quot;; font-size: 20px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;&lt;b&gt;The ‘cloud’ icon represents the App&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;&lt;b&gt;The ‘www’ icon represents the User/Browser&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;&lt;b&gt;The ‘safe’ icon represents the OAuth Server&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;&lt;b&gt;‘N.A.’ means ‘not applicable’, i.e., the step is not required in the grant type flow&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=42;" parent="1" vertex="1">
           <mxGeometry x="190" y="1670" width="1300" height="180" as="geometry" />
         </mxCell>
       </root>
