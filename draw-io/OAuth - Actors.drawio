@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T19:43:56.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="jMKQh9Pra9NenhEjjTx6" type="github"><diagram id="cKIYLbCnYOmb70XAYfFw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-05T19:47:04.894Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="2HM2qx88GVPcWnrKKJqa" type="github">
+  <diagram id="o5Pza3T4qq0F1UguKT4D" name="Page-1">
+    <mxGraphModel dx="1258" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DI81-v7ZJXH-mc2Pm92L-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="100" width="70" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DI81-v7ZJXH-mc2Pm92L-2" value="" style="fillColor=#28A8E0;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.identity_authorization_alt;" vertex="1" parent="1">
+          <mxGeometry x="740" y="80" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="DI81-v7ZJXH-mc2Pm92L-3" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Explorer.svg;" vertex="1" parent="1">
+          <mxGeometry x="756.43" y="456.5" width="133.57" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DI81-v7ZJXH-mc2Pm92L-4" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.swf;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="450" width="116.5" height="123" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
