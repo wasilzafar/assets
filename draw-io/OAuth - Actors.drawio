@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T19:49:14.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="MazUVb895BDjB0nErYCh" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-05T20:00:51.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="gPjkFT7EwInkI6wRAhHa" type="github">
   <diagram id="o5Pza3T4qq0F1UguKT4D" name="Page-1">
     <mxGraphModel dx="1258" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="DI81-v7ZJXH-mc2Pm92L-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Resource Owner&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="135" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DI81-v7ZJXH-mc2Pm92L-9" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="475" y="280" width="150" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
